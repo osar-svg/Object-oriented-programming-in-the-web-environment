@@ -51,6 +51,9 @@ When discussing "listing" and "delisting" in the context of web applications, pa
 In an OOP setup, the business logic for listing and delisting might be handled within specific classes, and the operations could be modeled as methods within those classes.
 
 # Example Scenario: Product Listing and Delisting
+
+https://chatgpt.com/share/681cb114-d96c-800f-ad20-c987c287e309
+
 Let's break it down into the main logic using an OOP approach.
 
 # Step 1: Define the Product Class
